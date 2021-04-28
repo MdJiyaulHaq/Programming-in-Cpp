@@ -21,7 +21,7 @@ public:
 
 int main()
 {
-    
+
     int count;
     cout << "For how many students you want to enter the data?" << endl;
     cin >> count;
