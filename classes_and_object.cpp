@@ -1,3 +1,7 @@
+
+// this is a program illustrating class and object in cpp
+
+
 #include <iostream>
 using namespace std;
 

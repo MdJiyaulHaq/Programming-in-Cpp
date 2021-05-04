@@ -1,3 +1,6 @@
+
+// this is a program illustrating concept of oops in cpp 
+
 #include <iostream>
 using namespace std;
 

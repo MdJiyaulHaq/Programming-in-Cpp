@@ -1,3 +1,6 @@
+
+// this is a program printing something on screen
+
 #include <iostream>
 using namespace std;
 

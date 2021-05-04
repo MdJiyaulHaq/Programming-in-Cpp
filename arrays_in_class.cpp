@@ -1,3 +1,7 @@
+
+// this is a program illustrating how to use arrays in a class 
+
+
 #include <iostream>
 using namespace std;
 
